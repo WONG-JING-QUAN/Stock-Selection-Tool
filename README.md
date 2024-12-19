@@ -1,4 +1,4 @@
-# Stock-Selection-Tool
+# Stock-Selection-Tool using Python
 The Stock Selection Tool is a simple Python-based program designed to help users analyze the historical stock closing prices of companies listed in Malaysia. This tool allows you to fetch stock price data, perform analysis like calculating the average price, percentage change, and identify the highest and lowest closing prices for a selected period. It is especially useful for those who want a quick and easy way to understand stock trends without manually searching for data.
 
 This program comes with features like user registration and login to ensure only authorized users can access it. Once logged in, you can enter a stock ticker, specify a date range, and the program will retrieve the relevant closing prices from the Yahoo Finance database. You can save the analysis results for future reference and even revisit your saved files through the program. The tool is designed with user-friendliness in mind, offering clear instructions and error messages for invalid inputs.
