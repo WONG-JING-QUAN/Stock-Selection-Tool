@@ -3,4 +3,4 @@ The Stock Selection Tool is a simple Python-based program designed to help users
 
 This program comes with features like user registration and login to ensure only authorized users can access it. Once logged in, you can enter a stock ticker, specify a date range, and the program will retrieve the relevant closing prices from the Yahoo Finance database. You can save the analysis results for future reference and even revisit your saved files through the program. The tool is designed with user-friendliness in mind, offering clear instructions and error messages for invalid inputs.
 
-To use the tool, you need basic setup like Python installed on your computer along with some libraries such as YFinance, Pandas, and OpenPyXL. The project folder includes everything you need to run the program, including files for storing user data and saving your stock analysis.
+To use the tool, you need basic setup like Python installed on your computer along with some libraries such as YFinance and Pandas. The project folder includes everything you need to run the program, including files for storing user data and saving your stock analysis.
